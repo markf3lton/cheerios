@@ -38,8 +38,10 @@
         "drupal/acquia_purge": "^1.0-beta3",
         "drupal/cog": "^1.0.0",
         "drupal/devel": "^1.0.0",
-        "drupal/shield": "^1.2.0",
-        "drupal/qa_accounts": "^1.0.0-alpha1"
+        "drupal/environment_indicator": "3.3",
+        "drupal/qa_accounts": "^1.0.0-alpha1",
+        "drupal/responsive_favicons": "^1.4",
+        "drupal/shield": "^1.2.0"
     },
     "require-dev": {
         "acquia/blt-require-dev": "^10.0.0-alpha1",
