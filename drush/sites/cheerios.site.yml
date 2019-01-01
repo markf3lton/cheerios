@@ -1,0 +1,6 @@
+local:
+    root: /var/www/cheerios/docroot
+    uri: 'http://local.cheerios.com'
+    host: local.cheerios.com
+    user: vagrant
+    ssh: { options: '-o PasswordAuthentication=no -i $HOME/.vagrant.d/insecure_private_key' }
